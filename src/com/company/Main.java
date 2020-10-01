@@ -10,6 +10,7 @@ public class Main {
         //Det betyder her, at while loop kommer til at køre indtil boolen end bliver til false
         while (end) {
 
+
             //Her har vi lavet to integers, som er 0 til at stare med, men som kommer til at fylde mere
             int playerOne = 0;
             int playerTwo = 0;
